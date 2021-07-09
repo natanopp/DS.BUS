@@ -1,4 +1,4 @@
-# Data science for business
-### The place where business students learn data science from scratch 
-
-This reposity was initially created for BUS62-204 Big Data Analytics in Business course at Walailuk University.
+# Data science showcase
+1. Regression with Ads data (very classical but simple to follow)
+2. Clustering showcase: k-means vs. DBSCAN
+3. Visualizations
